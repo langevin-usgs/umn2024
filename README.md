@@ -1,10 +1,7 @@
-# umn2024
-MODFLOW workshop materials for Hydrogeology Field Camp, ESci 4971W/5971, University of Minnesota
-
 ![alt](images/header.png)
 
-# Python for Hydrogeology
-Training materials for the Python and Hydrogeology Workshop offered during the [2024 Washington Hydrogeology Symposium](https://www.wahgs.uw.edu/)
+# umn2024 MODFLOW Workhop
+MODFLOW workshop materials for [Hydrogeology Field Camp](https://sites.google.com/a/umn.edu/hydrogeology-field-camp/), ESci 4971W/5971, University of Minnesota
 
 ## Date and Location
 * August 13, 2024, 9:00 AM -- 12:00 PM
