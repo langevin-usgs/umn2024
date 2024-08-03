@@ -1,6 +1,6 @@
 ![alt](images/header.png)
 
-# MODFLOW Workhop
+# MODFLOW Workshop
 MODFLOW workshop materials for [Hydrogeology Field Camp](https://sites.google.com/a/umn.edu/hydrogeology-field-camp/), ESci 4971W/5971, University of Minnesota
 
 ## Date and Location
