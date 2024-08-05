@@ -24,7 +24,3 @@ This workshop is a brief introduction to MODFLOW for undergraduate and graduate 
 
 ## Software
 See the [Software Installation Page](./SOFTWARE.md) for software installation instructions.
-
-If you encounter problems with the software installation, you may be able to run the notebooks through binder.
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/langevin-usgs/umn2024/HEAD)

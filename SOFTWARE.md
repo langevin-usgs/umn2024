@@ -48,7 +48,7 @@ get-modflow :flopy
 jupyter lab
 ```
 
-7. Test and make sure everything is working properly by copying the MODFLOW 6 Quick Start example from the [flopy website](https://github.com/modflowpy/flopy).  If everything is working properly, you should see the following image in your jupyter notebook.
+7. To test and make sure everything is working properly, first click on the Python 3 (ipykernel) option under Notebook.  This will open a new Untitled notebook in jupyter lab.  Next, copy the MODFLOW 6 Quick Start example from the [flopy website](https://github.com/modflowpy/flopy).  After you copy the python code into your notebook, press the play button (or use shift-enter) to run the example.  If everything is working properly, you should see the following image in your jupyter notebook.
 
 ![alt](images/quickstart.png)
 
@@ -56,7 +56,3 @@ The setup is complete.  We will start using jupyter notebooks the morning of the
 
 # Preparation for the Workshop
 If you have never used Python before, there are many online resources for getting started.  A recommendation is to start with the tutorial at https://cscircles.cemc.uwaterloo.ca/.
-
-# If Software Installation Fails
-
-Notebooks can be run from mybinder.org through the following link: https://mybinder.org/v2/gh/langevin-usgs/umn2024/HEAD
