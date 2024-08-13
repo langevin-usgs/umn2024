@@ -19,8 +19,10 @@ This workshop is a brief introduction to MODFLOW for undergraduate and graduate 
 ## Topics
 * MODFLOW Overview
 * MODFLOW and FloPy demonstration
-* Exercise 1: Confined aquifer model
-* Exercise 2: Construction of a leaky aquifer model
+* Example 1: Toth
+* Example 2: Freshwater Island
+* Example 3: Confined Aquifer Pumping Test
+* Example 4: Leaky Aquifer Pumping Test
 
 ## Software
 See the [Software Installation Page](./SOFTWARE.md) for software installation instructions.
